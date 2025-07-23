@@ -1,4 +1,7 @@
-## Hi there 👋
+#Amishi
+
+🎓 CS Student 
+📫 Email: amishipatidar@gmail.com  
 
 <!--
 **amishipatidar/amishipatidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
