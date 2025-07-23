@@ -1,6 +1,7 @@
 #Amishi
 
-🎓 CS Student 
+🎓 CS Student
+
 📫 Email: amishipatidar@gmail.com  
 
 <!--
