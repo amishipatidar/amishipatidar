@@ -2,7 +2,7 @@
 
 🎓 CS Student
 
-📫 Email: amishipatidar@gmail.com  
+Email: amishipatidar@gmail.com  
 
 
 ## 🌐 Socials:
